@@ -1,0 +1,2 @@
+rootProject.name='Eartquake news'
+include ':app'
